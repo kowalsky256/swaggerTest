@@ -1,0 +1,9 @@
+{
+    "url": "https://a2securetest.ddns.net/test.yaml",
+    "urls": [
+        {
+            "url": "https://a2securetest.ddns.net/test.yaml",
+            "name": "Foo"
+        }
+    ]
+}
