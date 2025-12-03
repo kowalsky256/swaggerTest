@@ -1,9 +1,9 @@
 {
     "swagger": "2.0",
-    "url": "https://raw.githubusercontent.com/kowalsky256/swaggerTest/master/test.yaml",
+    "url": "https://raw.githubusercontent.com/kowalsky256/swaggerTest/master/test2.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/kowalsky256/swaggerTest/master/test.yaml",
+            "url": "https://raw.githubusercontent.com/kowalsky256/swaggerTest/master/test2.yaml",
             "name": "Foo"
         }
     ]
